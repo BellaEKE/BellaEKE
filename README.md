@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning, AI
 - 🌱 I’m currently learning data science and analytics
 - 💞️ I’m looking to collaborate on machine learning and AI projects
-- 📫 How to reach me ...on belleeke2022@gmail.com
+- 📫 How to reach me ...on bellaeke2022@gmail.com
 
 <!---
 BellaEKE/BellaEKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
